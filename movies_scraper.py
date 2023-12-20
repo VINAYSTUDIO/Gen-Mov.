@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-url_list = {}
+url_list = {my-projects-mocha.vercel.app}
 api_key = "4e57a69974f91ce812733e201cb4cda622caa2a8"
 
 
